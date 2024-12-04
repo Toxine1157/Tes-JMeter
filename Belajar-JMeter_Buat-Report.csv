@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1733294050081,1528,HTTP Request,201,Created,Thread Group 1-1,text,true,,775,270,1,1,https://kasir-api.belajarqa.com/registration,1528,0,91
+1733294051609,1233,HTTP Request,201,Created,Thread Group 1-1,text,true,,597,270,2,2,https://kasir-api.belajarqa.com/registration,1233,0,0
+1733294052080,772,HTTP Request,201,Created,Thread Group 1-2,text,true,,775,270,1,1,https://kasir-api.belajarqa.com/registration,772,0,177
+1733294052853,1108,HTTP Request,201,Created,Thread Group 1-2,text,true,,597,270,1,1,https://kasir-api.belajarqa.com/registration,1108,0,0
+1733294054081,1010,HTTP Request,201,Created,Thread Group 1-3,text,true,,775,270,1,1,https://kasir-api.belajarqa.com/registration,1010,0,308
+1733294055092,609,HTTP Request,201,Created,Thread Group 1-3,text,true,,597,270,1,1,https://kasir-api.belajarqa.com/registration,609,0,0
+1733294056081,793,HTTP Request,201,Created,Thread Group 1-4,text,true,,775,270,1,1,https://kasir-api.belajarqa.com/registration,792,0,324
+1733294056874,471,HTTP Request,201,Created,Thread Group 1-4,text,true,,597,270,1,1,https://kasir-api.belajarqa.com/registration,471,0,0
+1733294058095,593,HTTP Request,201,Created,Thread Group 1-5,text,true,,775,270,1,1,https://kasir-api.belajarqa.com/registration,593,0,176
+1733294058688,430,HTTP Request,201,Created,Thread Group 1-5,text,true,,597,270,1,1,https://kasir-api.belajarqa.com/registration,430,0,0
